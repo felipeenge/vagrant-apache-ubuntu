@@ -59,6 +59,7 @@ All steps are executed automatically using `vagrant up`.
 
 ### Steps
 
+
 ```bash
 git clone https://github.com/felipeenge/vagrant-apache-ubuntu.git
 cd vagrant-apache-ubuntu
@@ -73,7 +74,7 @@ vagrant provision
 Or reload the VM and provision again:
 vagrant reload --provision
 
-🧹 Stop or Destroy the Environment
+Stop or Destroy the Environment
 Stop the VM:
 vagrant halt
 
