@@ -1,4 +1,3 @@
-```sh
 # Vagrant Apache Ubuntu Provisioning
 
 This project is a Junior-level DevOps portfolio project that demonstrates how to automatically provision a Linux environment using Vagrant and Shell scripting, applying Infrastructure as Code (IaC) concepts.
